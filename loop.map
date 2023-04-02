@@ -1,24 +1,25 @@
 [
- {"name": "A white room",
-  "desc": "You are in a simple room with white walls.",
-  "exits": { "north": 1, "east": 3 },
-  "items": ["rose", "flowers"]
- }
+{"name": "A yellow room",
+"desc": "You find yourself in a room with bright yellow walls.",
+"exits": { "north": 1, "east": 3 },
+"items": ["banana", "sunflower"]
+}
 ,
- {"name": "A blue room",
-  "desc": "This room is simple, too, but with blue walls.",
-  "exits": { "east": 2, "south": 0 }
- }
+{"name": "An orange room",
+"desc": "This room has vibrant orange walls, giving it a warm atmosphere.",
+"exits": { "east": 2, "south": 0 },
+"items": ["orange", "pumpkin"]
+}
 ,
- {"name": "A green room",
-  "desc": "You are in a simple room, with bright green walls.",
-  "exits": { "west": 1, "south": 3 },
-  "items": []
- }
+{"name": "A purple room",
+"desc": "The walls of this room are painted in a deep purple hue.",
+"exits": { "west": 1, "south": 3 },
+"items": ["grape", "lavender"]
+}
 ,
- {"name": "A red room",
-  "desc": "This room is fancy. It's red!",
-  "exits": { "north": 2, "west": 0 },
-  "items": ["rose"]
- }
+{"name": "A pink room",
+"desc": "This room has lovely pink walls, making it feel cozy and inviting.",
+"exits": { "north": 2, "west": 0 },
+"items": ["flamingo", "cotton candy"]
+}
 ]
