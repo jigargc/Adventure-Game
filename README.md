@@ -7,7 +7,7 @@
 
 ## Project Information
 
-- Public GitHub Repo URL: https://github.com/your_username/your_project_name
+- Public GitHub Repo URL: https://github.com/jigargc/Adventure-Game.git
 - Estimated Hours Spent: 20 hours
 
 ## Testing
